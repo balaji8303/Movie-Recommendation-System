@@ -31,8 +31,8 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Ajay-kanna-356/Movie-Recommendation-System-Project.git
-   cd Movie-Recommendation-System-Project
+   git clone https://github.com/balaji8303/Movie-Recommendation-System.git
+   cd Movie-Recommendation-System
    ```
 
   
